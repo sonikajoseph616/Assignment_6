@@ -1,0 +1,5 @@
+[{"Emp1":{"Name": "Hrithik M John",     "DOB": "12-11-1999", "Height": "5'7", "City": "Ernakulam", "State":"Kerala"}},
+ {"Emp2":{"Name": "Athira VenuGopal",     "DOB": "22-07-1995", "Height": "5'4","City": "North Paravoor", "State":"Kerala"}},
+ {"Emp3":{"Name": "sona K S", "DOB": "28-10-2000", "Height": "5'7", "City": "Ernakulam","State":"Kerala"}},
+ {"Emp4":{"Name": "Sarika Joseph",  "DOB": "04-11-2000", "Height": "5'2", "City": "Ernakulam", "State":"Kerala"}},
+ {"Emp5":{"Name": "Brosini E J", "DOB": "28-04-1987", "Height": "5'0", "City": "Edappally",    "State":"Kerala"}}]
